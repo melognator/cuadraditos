@@ -1,0 +1,42 @@
+html,body {
+  padding: 0px;
+  margin: 0px;
+}
+
+table {
+  margin-top: 20px;
+}
+
+.imagen {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0px;
+  padding: 9.5%;
+}
+
+footer {
+  background-color: #BEBEBE;
+  padding: 20px;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #79BEEE;
+}
+
+a:hover {
+  color: #B2DDF7;
+}
+
+#collage {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0px;
+  padding: 5%;
+  padding-bottom: 10%;
+}
